@@ -42,4 +42,4 @@ to add the peers (one per line) to a text file, and then run the client with fla
 parity --chain ropsten --reserved-peers ropstenpeers.txt --reserved-only
 ```
 
-You can check that the client is on the revived chain by comparing to the block numbers on [http://pool.ropsten.ethereum.org](http://pool.ropsten.ethereum.org) and [http://ropsten.etherscan.io](http://ropsten.etherscan.io).
+You can check that the client is on the revived chain by comparing to the block numbers on [http://pool.ropsten.ethereum.org](http://pool.ropsten.ethereum.org) and [http://ropsten.etherscan.io](ropsten.etherscan.io).
