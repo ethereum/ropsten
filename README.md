@@ -25,7 +25,7 @@ If you have problems syncing to the right chain, you can force your client to co
 
 For geth, start the client without connecting to any peers:
 ```
-geth --testnet --fast --nodiscover
+geth --testnet --fast --nodiscover --rpc --rpcport "8545" --rpcapi "admin,db,eth,net,web3,personal"
 ```
 Then in the console (`geth attach`), add them manually:
 ```
