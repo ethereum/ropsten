@@ -1,4 +1,4 @@
-<p align="center"><strong>Ropsten (2016)</strong> | Rinkeby (2017) | <a href="https://github.com/eth-clients/goerli">Goerli (2019)</a> | <a href="https://github.com/eth-clients/sepolia">Sepolia (2021)</a> | <a href="https://github.com/eth-clients/holesovice">Holesovice (2023)</a></p>
+<p align="center">Morden (2015) | <strong>Ropsten (2016)</strong> | Rinkeby (2017) | <a href="https://github.com/eth-clients/goerli">Goerli (2019)</a> | <a href="https://github.com/eth-clients/sepolia">Sepolia (2021)</a></p>
 <p align="center"><img src="./assets/ropsten.png" /></p>
 
 # Ropsten Testnet
