@@ -1,6 +1,8 @@
-# Ropsten testnet PoW chain
+<p align="center"><strong>Ropsten (2016)</strong> | Rinkeby (2017) | <a href="https://github.com/eth-clients/goerli">Goerli (2019)</a> | <a href="https://github.com/eth-clients/sepolia">Sepolia (2021)</a></p>
+<p align="center"><img src="./assets/ropsten.png" /></p>
 
-[![Join the chat at https://gitter.im/ethereum/ropsten](https://badges.gitter.im/ethereum/ropsten.svg)](https://gitter.im/ethereum/ropsten?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Ropsten Testnet
+The `--ropsten` proof-of-work testnet configuration.
 
 To resync to the revived Ropsten chain, at the command line run:
 ```
