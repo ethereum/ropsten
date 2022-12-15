@@ -4,6 +4,10 @@
 # Ropsten Testnet
 The `--ropsten` proof-of-work testnet configuration.
 
+:warning: Ropsten has been declared **EOL as of December 2022**. Please use [Goerli](https://github.com/eth-clients/goerli) or [Sepolia](https://github.com/eth-clients/sepolia) moving forward.
+
+## Revival
+
 To resync to the revived Ropsten chain, at the command line run:
 ```
 geth --testnet removedb
